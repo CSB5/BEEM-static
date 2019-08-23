@@ -105,4 +105,4 @@ auc.b(est$b.est, scaled.params$b.truth, main='BEEM-static')
 
 A manuscript for BEEM-static is in preparation and please contact us ([Li Chenhao](mailto:lich@gis.a-star.edu.sg) or [Niranjan Nagarajan](mailto:nagarajann@gis.a-star.edu.sg)) if you are interested in using it. Alternatively, you can also cite our manuscript on BEEM:
 
- - C Li, et al. (2018) An expectation-maximization-like algorithm enables accurate ecological modeling using longitudinal metagenome sequencing data. [BioRxiv](https://www.biorxiv.org/content/early/2018/07/17/288803)
+ - C Li, K R Chng, J S Kwah, T V Av-Shalom, L Tucker-Kellogg & N Nagarajan. (2019). An expectation-maximization algorithm enables accurate ecological modeling using longitudinal metagenome sequencing data. [*Microbiome*](https://rdcu.be/bPl3T).
