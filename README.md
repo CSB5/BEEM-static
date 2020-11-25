@@ -102,7 +102,7 @@ auc.b(est$b.est, scaled.params$b.truth, main='BEEM-static')
 
 ## Citation
 
- - C Li, T V Av-shalom et al. BEEM-Static: Accurate inference of ecological interactions from cross-sectional metagenomic data. [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.11.23.394999v1) 2020.
+ - C Li, T V Av-Shalom et al. BEEM-Static: Accurate inference of ecological interactions from cross-sectional metagenomic data. [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.11.23.394999v1) 2020.
 
  - C Li, K R Chng, J S Kwah, T V Av-Shalom, L Tucker-Kellogg, N Nagarajan. An expectation-maximization algorithm enables accurate ecological modeling using longitudinal metagenome sequencing data. [*Microbiome*](https://rdcu.be/bPl3T) 2019.
  
